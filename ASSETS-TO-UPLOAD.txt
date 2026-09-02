@@ -1,14 +1,29 @@
-PERSONAL ASSETS
+USAMA ECOM OPS — V4 ASSET REPLACEMENT MAP
 
-Place these files in this assets/ folder if not already present:
+KEEP / USE
 - apple-touch-icon.png
-- favicon-32.png
 - favicon-16.png
+- favicon-32.png
 - icon-512.png
 - profile_photo_cropped.png
+- pen-before.jpg
+- pen-after.png
+- tape-before.png
+- tape-after.png
+- portfolio-demos.xlsx
+- demo-data.js
 
-PORTFOLIO VISUALS
+REPLACE OLD DEMO VISUALS WITH NEW FILES OF THE SAME NAME
+- demo-research.png
+- demo-sourcing.png
+- demo-walmart-setup.png
+- demo-management.png
+- demo-compliance.png
+- demo-support.png
 - walmart-bottle-optimization.png
 - tiktok-bottle-shop.png
 
-The bottle visuals are illustrative practice projects and are not presented as verified client results.
+DEDICATED AUDIT VISUAL
+- demo-audit.png (new clean audit visual included in this package)
+
+The old demo-tiktok.png is no longer referenced. The old demo-audit.png is replaced by the new version in this package.
