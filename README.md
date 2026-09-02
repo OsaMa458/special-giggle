@@ -1,20 +1,37 @@
-# Usama E-Commerce Portfolio
+# Usama E-Commerce Website — Redesigned
 
-Static portfolio website for an e-commerce store specialist focused on Walmart Seller Center and TikTok Shop.
+This package is a redesigned static version of the portfolio based on the current live site and the requested changes.
 
-## Pages
-- `index.html` — Home
-- `services.html` — Service catalog with expandable service details and direct contact actions
-- `about.html` — Positioning, profile and workflow
-- `results.html` — Transparent portfolio demonstrations
-- `contact.html` — Email, WhatsApp and quick-start brief
+## Included
+- Stronger homepage positioning around Walmart Seller Center + TikTok Shop
+- Product research + product sourcing added as explicit services
+- Clickable service-to-portfolio connections
+- Clickable portfolio projects with detail modals
+- Before/after comparison for listing optimization
+- XLSX product research sample replaces the old PDF
+- WhatsApp number is not displayed in the UI; only "Contact on WhatsApp" is shown
+- FAQ, pricing starting points, process, trust section and portfolio roadmap
+- Missing sample-work checklist for the services that still need proof
+- Clear DEMO/CONCEPT labels to avoid implying fake client results
+
+## Important asset note
+The existing portfolio images are referenced from:
+https://usamaecom.site/assets/
+
+If you deploy this package to a new host, copy those image files into `assets/` and update the image paths if desired.
 
 ## Contact
-- Email: usamaghaffar264@gmail.com
-- WhatsApp: +92 329 9132452
+Email: usama.ecomops@gmail.com
+Fiverr: https://www.fiverr.com/usama264/setup-optimize-and-manage-your-walmart-seller-central-store
 
-## Notes
-- Portfolio examples are explicitly demonstrations, not claimed client results.
-- No fabricated revenue figures, testimonials, client logos or certifications are included.
-- The site uses static HTML/CSS/JS and is suitable for GitHub Pages.
-- Platform resource links point to official Walmart and TikTok seller resources.
+The WhatsApp button is configured for the existing contact number but the number is not displayed on the page.
+
+## Next portfolio samples to create
+1. Walmart Store Setup — 5–7 demo screenshots + setup checklist
+2. Store Management — operations board + weekly report
+3. Deeper Product Sourcing — supplier comparison with MOQ, lead time, shipping and supplier verification
+4. TikTok Shop Setup — 5–7 demo screenshots
+5. Compliance Checklist — annotated listing audit
+6. Order & Customer Support — SOP + workflow graphic
+
+Do not label demo projects as client results. Replace them with verified case studies once real client work is available.
