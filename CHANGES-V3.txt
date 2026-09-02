@@ -1,0 +1,21 @@
+USAMA ECOM OPS — V3 REBUILD CHANGES
+
+1. Added the previously created bottle portfolio visuals:
+   - assets/walmart-bottle-optimization.png
+   - assets/tiktok-bottle-shop.png
+2. Added a Walmart Seller Optimization bottle case study.
+3. Updated the TikTok Shop portfolio case study to show the bottle visual.
+4. Added a compact bottle evidence section on the homepage.
+5. Simplified Email / WhatsApp / LinkedIn / Facebook / Fiverr contact cards to logo + platform name only.
+6. Added a clearly visible green Fiverr-branded icon/button to the Free Store Audit contact area.
+7. Improved responsive CSS for desktop, tablet and mobile layouts, including grids, buttons, navigation and image overflow.
+8. Added profile_photo_cropped.png to the package.
+9. Preserved CNAME as usamaecom.site.
+
+IMPORTANT:
+The existing GitHub repository already contains the user's favicon assets:
+- apple-touch-icon.png
+- favicon-16.png
+- favicon-32.png
+- icon-512.png
+When uploading this v3 package, keep those existing favicon files in assets/ if they are not included in the package.

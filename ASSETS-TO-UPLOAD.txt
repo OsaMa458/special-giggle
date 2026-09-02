@@ -1,11 +1,14 @@
-UPLOAD THESE FILES INTO assets/
+PERSONAL ASSETS
 
-Use these exact base names (extensions may be png/jpg/jpeg/webp as appropriate):
-- apple-touch-icon
-- favicon-32
-- icon-512
-- favicon-16
-- profile_photo_cropped
+Place these files in this assets/ folder if not already present:
+- apple-touch-icon.png
+- favicon-32.png
+- favicon-16.png
+- icon-512.png
+- profile_photo_cropped.png
 
-The site automatically checks common image extensions for these exact base names.
-Do not rename the base names.
+PORTFOLIO VISUALS
+- walmart-bottle-optimization.png
+- tiktok-bottle-shop.png
+
+The bottle visuals are illustrative practice projects and are not presented as verified client results.
