@@ -1,0 +1,11 @@
+UPLOAD THESE FILES INTO assets/
+
+Use these exact base names (extensions may be png/jpg/jpeg/webp as appropriate):
+- apple-touch-icon
+- favicon-32
+- icon-512
+- favicon-16
+- profile_photo_cropped
+
+The site automatically checks common image extensions for these exact base names.
+Do not rename the base names.
