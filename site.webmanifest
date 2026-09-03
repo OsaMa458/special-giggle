@@ -1,0 +1,16 @@
+{
+  "name": "USAMA E-Commerce Operations",
+  "short_name": "USAMA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07182d",
+  "theme_color": "#07182d",
+  "icons": [
+    {
+      "src": "assets/brand/icon-512.png",
+      "sizes": "220x220",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
