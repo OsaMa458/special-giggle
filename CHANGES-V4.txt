@@ -1,7 +1,0 @@
-V4 VISUAL INTEGRATION
-1. Homepage TikTok preview now uses tiktok-bottle-shop.png instead of the old demo-tiktok.png.
-2. Portfolio Store Audit no longer uses the old audit graphic; a dedicated, site-theme-matched demo-audit.png is included.
-3. Existing service visuals retain the stable filenames so the user's newly uploaded assets are used without changing the rest of the site structure.
-4. Pen and tape before/after assets are preserved.
-5. Favicons, headshot, workbook and demo-data are preserved.
-6. No fake client results, revenue or performance claims were added.
